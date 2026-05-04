@@ -1,0 +1,52 @@
+{
+  "sp500_ohlcv": {
+    "rows": 2513,
+    "from": "2016-01-04",
+    "to": "2025-12-30",
+    "status": "ok"
+  },
+  "nifty_ohlcv": {
+    "rows": 2463,
+    "from": "2016-01-04",
+    "to": "2025-12-30",
+    "status": "ok"
+  },
+  "macro_fred": {
+    "rows": 2608,
+    "columns": [
+      "VIX",
+      "US10Y",
+      "US2Y",
+      "BRENT",
+      "USDINR"
+    ],
+    "status": "ok"
+  },
+  "fear_greed": {
+    "rows": 2609,
+    "status": "synthetic",
+    "from": "2016-01-01",
+    "to": "2025-12-31"
+  },
+  "svi_sp500": {
+    "rows": 522,
+    "status": "synthetic"
+  },
+  "svi_nifty": {
+    "rows": 522,
+    "status": "synthetic"
+  },
+  "run_timestamp": "2026-05-04T13:58:38.121083",
+  "study_period": {
+    "start": "2016-01-01",
+    "end": "2025-12-31"
+  },
+  "fred_key_used": true,
+  "gold_fix": {
+    "source": "Yahoo Finance GC=F",
+    "rows": 2607,
+    "status": "ok",
+    "note": "Replaced broken FRED GOLDAMGBD228NLBM with Yahoo Finance GC=F",
+    "fixed_at": "2026-05-04T13:58:38.670208"
+  }
+}

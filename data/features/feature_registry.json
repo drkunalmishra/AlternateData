@@ -1,0 +1,53 @@
+{
+  "sp500_all_features": [
+    "Log_Ret_t",
+    "RSI_14",
+    "MACD_Signal",
+    "ATR_14",
+    "VIX_Change",
+    "Term_Spread",
+    "Oil_Ret",
+    "Gold_Ret",
+    "FG_Index",
+    "FG_Delta",
+    "FG_Zone",
+    "SVI_Market",
+    "SVI_Index"
+  ],
+  "nifty_all_features": [
+    "Log_Ret_t",
+    "RSI_14",
+    "MACD_Signal",
+    "ATR_14",
+    "VIX_Change",
+    "Term_Spread",
+    "Oil_Ret",
+    "Gold_Ret",
+    "FG_Index",
+    "FG_Delta",
+    "FG_Zone",
+    "SVI_Market",
+    "SVI_Index",
+    "USDINR_Ret",
+    "SP500_t1_Ret",
+    "FG_t1_Index"
+  ],
+  "baseline_features": [
+    "Log_Ret_t",
+    "RSI_14",
+    "MACD_Signal",
+    "ATR_14",
+    "VIX_Change",
+    "Term_Spread",
+    "Oil_Ret",
+    "Gold_Ret"
+  ],
+  "alt_data_features": [
+    "FG_Index",
+    "FG_Delta",
+    "FG_Zone",
+    "SVI_Market",
+    "SVI_Index"
+  ],
+  "target_column": "Target_Dir"
+}

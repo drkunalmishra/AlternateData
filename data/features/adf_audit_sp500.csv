@@ -1,0 +1,14 @@
+Feature,p-value,Stationary,Action
+Log_Ret_t,0.0,✅ YES,PASS
+RSI_14,0.0,✅ YES,PASS
+MACD_Signal,0.0,✅ YES,PASS
+ATR_14,0.0,✅ YES,PASS
+VIX_Change,0.0,✅ YES,PASS
+Term_Spread,0.4409,—,DIFFERENCE
+Oil_Ret,0.0,✅ YES,PASS
+Gold_Ret,0.0,✅ YES,PASS
+FG_Index,0.7172,—,DIFFERENCE
+FG_Delta,0.0,✅ YES,PASS
+FG_Zone,0.3824,—,DIFFERENCE
+SVI_Market,0.0,✅ YES,PASS
+SVI_Index,0.0,✅ YES,PASS
